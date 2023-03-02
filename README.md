@@ -1,0 +1,2 @@
+- CenteredContainer.tsx ... アスペクト比を保ったまま中央ぞろえするためのコンテナコンポーネント
+- Loading.tsx ... react-loaderで実装したloading画面用コンポーネント
